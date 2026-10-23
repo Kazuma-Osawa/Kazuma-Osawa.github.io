@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- BikeDash アプリアイコン (案 P1-c 左右反転)。角丸は iOS が付けるので四角のまま -->
+  <rect width="1024" height="1024" fill="#111113"/>
+  <g transform="translate(1024 0) scale(-1 1)">
+    <g transform="rotate(-10 512 512)">
+      <rect x="-200" y="380" width="1424" height="320" fill="#F4F1EA"/>
+      <path d="M-120 610 C120 610 200 600 250 520 S360 470 420 580 S520 690 590 560 S660 470 720 520" fill="none" stroke="#1F2A36" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M880 170 L718.3 491.8" stroke="#FF9F0A" stroke-width="50" stroke-linecap="round"/>
+    <circle cx="880" cy="170" r="60" fill="#FFFFFF"/>
+    <circle cx="718.3" cy="491.8" r="28" fill="#1F2A36" stroke="#F4F1EA" stroke-width="10"/>
+  </g>
+</svg>
