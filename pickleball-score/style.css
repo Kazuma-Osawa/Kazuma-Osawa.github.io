@@ -76,3 +76,6 @@ nav.pages { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 48px; padding
 .todo { background: var(--todo); padding: 0 4px; border-radius: 4px; }
 
 footer { color: var(--muted); font-size: 0.85rem; margin-top: 24px; }
+
+/* 言葉の切りかえ */
+nav.lang { text-align: right; margin: -8px 0 16px; font-size: 0.9em; }
